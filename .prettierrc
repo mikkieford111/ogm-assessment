@@ -1,0 +1,8 @@
+{
+	"editorconfig": true,
+	"arrowParens": "avoid",
+	"jsxSingleQuote": false,
+	"semi": true,
+	"singleQuote": true,
+	"trailingComma": "all"
+}
